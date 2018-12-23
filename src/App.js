@@ -20,7 +20,7 @@ class App extends Component {
             Learn React
           </a>
           <p>
-            Hi There  sdasdsadsad
+            Hi There  with feature 1
           </p>
         </header>
       </div>
